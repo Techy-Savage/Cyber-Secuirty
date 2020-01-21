@@ -9,11 +9,12 @@ This includes:
 5) The Threaded Server to control all your clients.
 
 Server Commands:
-sessions: Lists current devices connected
-select [device number] : selects a target to connect to
-terminate: removes the file of the targets computer
-kill connection: forcibly closes a remote connection
-broadcast: allows you to send a command to all connected devices
+1) sessions: Lists current devices connected
+2) select [device number] : selects a target to connect to
+3) terminate: removes the file of the targets computer
+4) kill connection: forcibly closes a remote connection
+5) broadcast: allows you to send a command to all connected devices
 
+Feel free to make changes and imporve this software.
 
 Have Fun!
