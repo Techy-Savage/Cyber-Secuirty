@@ -1,4 +1,4 @@
-# Cyber-Secuirty
+# Cyber-Security
 This has tools for cyber security and ethical hacking.
 Watchdogs tool is a simple tool created to help you learn the basic concepts of networking.
 This includes:
