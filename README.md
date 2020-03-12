@@ -5,7 +5,7 @@ This includes:
 1) Network Scanner
 2) A IP scanner to check if the host is online
 3) Port scanner
-4) A quick scan of your network. doesn't show hostname unlike the Netowork Scanner
+4) A quick scan of your network. doesn't show hostname unlike the Network Scanner
 5) The Threaded Server to control all your clients.
 
 Server Commands:
