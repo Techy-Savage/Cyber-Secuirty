@@ -15,6 +15,6 @@ Server Commands:
 4) kill connection: forcibly closes a remote connection
 5) broadcast: allows you to send a command to all connected devices
 
-Feel free to make changes and imporve this software.
+Feel free to make changes and improve this software.
 
 Have Fun!
