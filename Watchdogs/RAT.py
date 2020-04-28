@@ -9,16 +9,6 @@ s = socket.socket()
 host = '192.168.2.16'
 port = 9999
 
-def upload():
-    filename = s.recv(1024)
-    f = open(filename, 'rb')
-    i = f.read()
-    while (i):
-        s.send(i)
-        i = f.read(1024)
-    f.close()
-    s.send('complete')
-
 
 def reconnect():
     connected = False
